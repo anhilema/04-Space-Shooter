@@ -1,0 +1,21 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Background" type="Node2D" parent="."]
+
+[node name="Sprite" type="Sprite" parent="Background"]
+
+[node name="Bullets" type="Node2D" parent="."]
+
+[node name="Enemy Bullets" type="Node2D" parent="."]
+
+[node name="Player" type="KinematicBody2D" parent="."]
+
+[node name="meteors" type="Node2D" parent="."]
+
+[node name="Enemies" type="Node2D" parent="."]
+
+[node name="Explosions" type="Node2D" parent="."]
+
+[node name="HUD" type="Node2D" parent="."]
