@@ -11,6 +11,8 @@ script = ExtResource( 1 )
 __meta__ = {
 "_edit_group_": true
 }
+score = 15
+speed = 5.0
 
 [node name="Sprite" type="Sprite" parent="."]
 scale = Vector2( 0.5, 0.5 )

@@ -63,9 +63,10 @@ autostart = true
 
 [node name="Enemies" type="Node2D" parent="."]
 script = ExtResource( 6 )
+max_enemies = 10
 
 [node name="Timer" type="Timer" parent="Enemies"]
-wait_time = 0.7
+wait_time = 0.4
 autostart = true
 
 [node name="Explosions" type="Node2D" parent="."]

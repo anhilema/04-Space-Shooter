@@ -5,7 +5,6 @@ export var probability = 0.6
 
 onready var Enemy1 = load("res://Scenes/Enemy1.tscn")
 onready var Enemy2 = load("res://Scenes/Enemy2.tscn")
-onready var Enemy3 = load("res://Scenes/enemy3.gd")
 
 func _ready():
 	randomize()
