@@ -1,7 +1,1 @@
-# 04-Space-Shooter
-
-This is a space shooter, created in Godot, as a requirement for MSCH-C220 at Indiana University.
-
-Control the ship with WASD and shoot with the space bar.
-
-The features are pretty basic (just an example, really), but I hope you enjoy playing it.
+This is a basic space shooter for my C220 class. It doesn't really have much to it, but hope you enjoy!
